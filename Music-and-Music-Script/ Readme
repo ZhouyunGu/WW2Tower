@@ -1,0 +1,1 @@
+To use the script just make an empty gameobject and place the BGmusic script on the gameobject. You place the play playBGMusic script on the camera so when the game go through the scenes it would not destory the music.
