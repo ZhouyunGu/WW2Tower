@@ -1,0 +1,3 @@
+Enemies are coming, Do you see the black colored rectangles on the ground.
+Use your mouse to click on the black colored rectangles to spawn your troops. 
+You have successfully spawn a solider, go and defend Bastonge.
