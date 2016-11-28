@@ -1,0 +1,3 @@
+Soldier, you have enough points to upgrade your unit.
+Click on the unit again to upgrade it.
+The unit have 4 upgrades total.
