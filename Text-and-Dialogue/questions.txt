@@ -1,0 +1,5 @@
+1.Germany has more troops than US in this battle. T
+2.The battle lasted for more than one month. F
+3.American forces initiated the attack. F
+4.American forces have been encircled by Germany forces and was not able to send injured out. T
+5.The goal of Germany forces was to take control of the Harbour at Antwerp. T
